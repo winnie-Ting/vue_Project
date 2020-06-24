@@ -1,30 +1,16 @@
 {
-  "id": "1902646",
-  "name": "vue_shop",
+  "id": "",
+  "name": "",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
-    {
-      "icon_id": "767310",
-      "name": "data",
-      "font_class": "3501shuju",
-      "unicode": "e665",
-      "unicode_decimal": 58981
-    },
     {
       "icon_id": "4936671",
       "name": "lock-fill",
       "font_class": "lock-fill",
       "unicode": "e86a",
       "unicode_decimal": 59498
-    },
-    {
-      "icon_id": "7008964",
-      "name": "manage",
-      "font_class": "manage",
-      "unicode": "e70b",
-      "unicode_decimal": 59147
     },
     {
       "icon_id": "7008968",
@@ -34,32 +20,11 @@
       "unicode_decimal": 59150
     },
     {
-      "icon_id": "7008976",
-      "name": "order",
-      "font_class": "order",
-      "unicode": "e713",
-      "unicode_decimal": 59155
-    },
-    {
       "icon_id": "7008978",
       "name": "people_fill",
       "font_class": "people_fill",
       "unicode": "e715",
       "unicode_decimal": 59157
-    },
-    {
-      "icon_id": "7009061",
-      "name": "commodity",
-      "font_class": "commodity",
-      "unicode": "e764",
-      "unicode_decimal": 59236
-    },
-    {
-      "icon_id": "10265400",
-      "name": "data analysis",
-      "font_class": "dataanalysis",
-      "unicode": "e615",
-      "unicode_decimal": 58901
     }
   ]
 }
