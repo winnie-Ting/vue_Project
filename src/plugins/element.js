@@ -7,6 +7,7 @@ import {
   Container,
   Card,
   Col,
+  Cascader,
   Dialog,
   Form,
   FormItem,
@@ -58,5 +59,6 @@ Vue.use(Tag)
 Vue.use(Tree)
 Vue.use(Select)
 Vue.use(Option)
+Vue.use(Cascader)
 Vue.prototype.$Message = Message
 Vue.prototype.$confirm = MessageBox.confirm
